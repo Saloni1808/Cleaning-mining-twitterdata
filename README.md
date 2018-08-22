@@ -1,2 +1,2 @@
 # Cleaning-mining-twitterdata
-Cleaning &amp; mining twitter data
+twitter data cleaning & mining using natural language tool kit and python
